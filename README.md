@@ -1,2 +1,3 @@
 # nextjs-blog
-a tutorial to learn nextjs 
+
+A tutorial to learn nextjs, using the documentation tutorial: [Learning NextJS](https://nextjs.org/learn/foundations/about-nextjs)
